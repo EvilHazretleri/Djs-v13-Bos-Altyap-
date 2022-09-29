@@ -2,8 +2,4 @@ Butonlarla ilgili bilgilere ulaşabileceğiniz link : https://discordjs.guide/in
 
 Bütün Discord Intentleri : https://github.com/discordjs/discord.js/blob/stable/src/util/Intents.js#L46
 
-Botun sunucuda slash komutu oluşturabilmesi için yapmanız gereken ayar : 
-
-https://supesu.is-inside.me/tzCUihCv.png
-
 Discord.js V13 Bos Altyapı Evil
